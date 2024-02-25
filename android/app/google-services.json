@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "146176156876",
+    "project_id": "gdrive-40a7b",
+    "storage_bucket": "gdrive-40a7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146176156876:android:3817bdc395ab6bfa754e69",
+        "android_client_info": {
+          "package_name": "com.example.grive_dart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAvB8wR7r6NKVxaqgwLYymSvLbmhw5l-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
